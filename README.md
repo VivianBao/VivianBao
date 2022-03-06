@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, I'm Wei An | Vivian 👋
+English | 日本語 | 中文 :speech_balloon:</br>
+Born and raised in Taiwan, now living in Tokyo, Japan.</br>
+
+I'm a full-stack web developer who's passionate about analyzing problems and finding solutions 🚀</br>
 
 <!--
 **VivianBao/VivianBao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
