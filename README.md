@@ -26,4 +26,3 @@ Connect with me:
 <a href="https://www.linkedin.com/in/wei-an-bow" target="_blank">
   <p><img aling="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/wei-an-bow" height="30" width="30" /></p>
 </a>
-
