@@ -6,7 +6,7 @@ I'm a full-stack developer who's passionate about analyzing problems and finding
 
 Always eager to learn and challenge myself to explore new things 💪</br>
 
-Check out my portfolio[http://weianbow.me/]
+Check out [my portfolio](http://weianbow.me/)
 
 <!--
 **VivianBao/VivianBao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
