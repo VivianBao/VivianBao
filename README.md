@@ -6,7 +6,7 @@
 
 #### Always eager to learn and challenge myself to explore new things 💪</br>
 
-#### Check out [my work](http://weianbow.me/)
+#### Check out [my portfolio site](https://weianbow.netlify.app/)
 
 #### Languages & Tools:
 <div style="display: flex;">
