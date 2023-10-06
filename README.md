@@ -1,6 +1,6 @@
 ## Hi, I'm Wei An | Vivian 👋
 #### English | 日本語 | 中文 :speech_balloon:</br>
-#### Born and raised in Taiwan, now living in Tokyo, Japan.</br>
+#### Born and raised in Taiwan.</br>
 
 #### I'm a full-stack developer who's passionate about analyzing problems and finding solutions 🚀</br>
 
